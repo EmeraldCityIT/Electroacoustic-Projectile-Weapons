@@ -1,2 +1,2 @@
-# Electroacoustic-Projectile-Weapon
+# Electroacoustic-Projectile-Weapons
 Electroacoustic Projectile Weapons
